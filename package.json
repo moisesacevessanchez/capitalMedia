@@ -1,0 +1,15 @@
+{
+  "name": "capital",
+  "version": "1.0.0",
+  "description": "Teayuda a descargar los capitales si ingresas el numero de el ultimo disponible",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moises Aceves",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^16.0.3"
+  }
+}
